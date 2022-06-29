@@ -2730,13 +2730,13 @@ let capt = `⭔ Title: ${judul}
 Bot Ini Adalah Beta Multi-Device WhatsApp.
 
 ❏ *Info Creator*
-> Name : *ArullOfc*
-> Nomor : *https://wa.me/6285822347348*
+> Name : *ReyhanBotZ✓*
+> Nomor : *https://wa.me/6285368159958*
 > Umur : *18*
 > Region : *Indonesia 🇲🇨*
-> Hobyy : *Gtw*
-> Made in : *Kalimantan Selatan*
-> Nama Asli : *Sahrull... Private*
+> Hobyy : *Berenang*
+> Made in : *Sumatra Selatan*
+> Nama Asli : *Muhammad... Private*
 └───────⭓
 ~Silahkan Lihat Menu Dibawah^^~
 ┌──⭓ *Group Menu*
@@ -3043,12 +3043,12 @@ _Donasi Ngab Jangan Ngarep Free Mulu_`
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Grub Bot',
-                                    url: 'https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'
+                                    url: 'https://chat.whatsapp.com/DJRXOD1ZFPKGDt7OSzMZm2'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Owner',
-                                    phoneNumber: '+6285822347348'
+                                    phoneNumber: '+6285368159958'
                                 }
                             }, {
                                 quickReplyButton: {
